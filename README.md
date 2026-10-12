@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Multi-Cloud-Architecture-Infrastructure/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-Cloud-Architecture-Infrastructure?style=flat-square&logo=github" alt="GitHub stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Multi-Cloud-Architecture-Infrastructure/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-Cloud-Architecture-Infrastructure?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Multi-Cloud-Architecture-Infrastructure/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Multi-Cloud-Architecture-Infrastructure?style=flat-square&logo=github" alt="GitHub forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Multi-Cloud-Architecture-Infrastructure/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -61,7 +61,7 @@ The table below catalogs premier multi-cloud management platforms, sorted in des
 
 ## 🚀 Open-Source GitHub Projects
 
-Explore the leading open-source frameworks, control planes, and tools powering vendor-neutral multi-cloud architectures. Sorted in descending order by **GitHub Star Count**:
+Explore the leading open-source frameworks, control planes, and tools powering vendor-neutral multi-cloud architectures. Sorted in descending order by **GitHub Stars_Count**:
 
 1. **[Kubernetes](https://github.com/kubernetes/kubernetes)** [![Stars](https://img.shields.io/github/stars/kubernetes/kubernetes?style=social&color=white)](https://github.com/kubernetes/kubernetes/stargazers)  
    The foundational, de facto open-source container orchestration platform for portable workload scheduling across public clouds, private datacenters, and edge environments. *(Apache 2.0)*
@@ -190,7 +190,7 @@ Contributions are welcome and appreciated! To help keep this ecosystem up to dat
 2. 🌿 **Create a branch** for your updates (`git checkout -b feat/add-awesome-tool`).
 3. ✍️ **Add or edit entries** following the established format:
    - For **SaaS**: Include the platform name, company valuation/revenue, concise description, specific starting price, and specific free tier / trial terms.
-   - For **Open-Source**: Include the repository link, star badge (`style=social&color=white`), concise description, and open-source license.
+   - For **Open-Source**: Include the repository link, Stars_Badge (`style=social&color=white`), concise description, and open-source license.
 4. 🚀 **Submit a Pull Request** with a clear explanation of why the tool is a valuable addition to multi-cloud infrastructure.
 
 ⭐ **Don't forget to star the repository if you found it useful!**
